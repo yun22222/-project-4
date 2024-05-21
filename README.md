@@ -1,7 +1,7 @@
 # -# HateSpeechClassificationModel
  KGITBANK 데이터 분석 및 챗봇 AI 수업 4차 팀 프로젝트 모델 및 코드
 
-팀원 : 공대윤(본인), 서윤성, 임세동, 노형진
+팀원 : 서윤성 외3인 
 
 https://kli.korean.go.kr/benchmark/taskOrdtm/taskList.do?taskOrdtmId=56&clCd=ING_TASK&subMenuId=sub01
 
