@@ -19,7 +19,8 @@ https://kli.korean.go.kr/benchmark/taskOrdtm/taskList.do?taskOrdtmId=56&clCd=ING
   이후 목적은 Valid Accuracy를 95퍼 이상으로 끌어올려, 과제 제출 인원 순위 중 상위권을 차지하는 것이 목표였습니다. 지속적인 수치 조정 후, 95프로가 넘는 정확도를 보여 그것을 과제로서 국립국어원에 정식 과제의 결과물로서 제출하고, 평가 점수 96.4285714로 2024.04.25일부터 순위권 2위를 유지하고 있습니다.
 
 (순위권 링크)
- -팀 이름: KGIT_AI팀
+ -팀 이름: KGIT_AI팀![KakaoTalk_20240521_161305044_01](https://github.com/yun22222/-project-4/assets/157781572/7db11e9f-1ce0-41f7-b84c-8915bb99dcde)
+
  
 https://kli.korean.go.kr/benchmark/taskOrdtm/taskLeaderBoard.do?taskOrdtmId=56&clCd=ING_TASK&subMenuId=sub04
 
@@ -28,3 +29,8 @@ https://kli.korean.go.kr/benchmark/taskOrdtm/taskLeaderBoard.do?taskOrdtmId=56&c
  이후, 저희는 API를 이용해 구글 크롬 확장 프로그램으로서 만들고, 인터넷으로 유투브 및 SNS 이용시 혐오 발언이 탐지되는 글들을 실시간으로 탐지해 검열하여 사용자의 시선에 보이지 않게하는 작업을 연구 중입니다.
 
   하지만 그 작업은 현재 지속적으로 연구 중이며, 당장에는 유투브 URL을 입력시 URL내의 영상의 댓글들을 가져와서 탐지하고 혐오 표현이 들어있는 댓글인지 아닌지 0과 1로 분류해주는 웹으로 제작해두었습니다.
+![KakaoTalk_20240521_161305044](https://github.com/yun22222/-project-4/assets/157781572/681f22bd-6411-4d38-bcd3-390135f56e28)
+
+![Uploading KakaoTalk_20240521_161305044_01.png…]()
+
+  
