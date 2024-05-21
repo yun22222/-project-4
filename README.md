@@ -31,7 +31,7 @@ https://kli.korean.go.kr/benchmark/taskOrdtm/taskLeaderBoard.do?taskOrdtmId=56&c
   하지만 그 작업은 현재 지속적으로 연구 중이며, 당장에는 유투브 URL을 입력시 URL내의 영상의 댓글들을 가져와서 탐지하고 혐오 표현이 들어있는 댓글인지 아닌지 0과 1로 분류해주는 웹으로 제작해두었습니다.
 
 
-![Uploading KakaoTalk_20240521_161305044_01.png…]()
-(https://github.com/yun22222/-project-4/assets/157781572/7db11e9f-1ce0-41f7-b84c-8915bb99dcde)
-(https://github.com/yun22222/-project-4/assets/157781572/681f22bd-6411-4d38-bcd3-390135f56e28)
-  
+![KakaoTalk_20240521_161305044](https://github.com/yun22222/-project-4/assets/157781572/8e6a614d-bf7c-4a31-806e-035bef2f76bf)
+
+![KakaoTalk_20240521_161305044_01](https://github.com/yun22222/-project-4/assets/157781572/98b2ca85-b662-47d7-bfc4-27e4723a82dd)
+
